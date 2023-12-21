@@ -693,4 +693,3 @@ module.exports = {
   getHypotenuse,
   getCountOfOddNumbers,
 };
-
